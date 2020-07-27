@@ -1,0 +1,19 @@
+{
+  "name": "persons-backend",
+  "version": "1.0.0",
+  "description": "Full Stack open 2020 -kurssin palautukset, osa 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/areee/fullstack-osa3.git"
+  },
+  "author": "Arttu Ylhävuori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/areee/fullstack-osa3/issues"
+  },
+  "homepage": "https://github.com/areee/fullstack-osa3#readme"
+}
